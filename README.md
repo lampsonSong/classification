@@ -15,3 +15,7 @@ revise the log path and saved path as your own
 
 ### Usage
 - python infer.py --model ./models/0.1Adam_batch1024_epoch150_gpu2_CE_StrongLight/f1_best_checkpoint.pth --video /home/lampson/2T_disk/Data/images/mask_test_videos/warperror.m4v --v 2 --loss sigmoid
+
+
+### Pretrained Models
+- You can download our pretrained models from :
